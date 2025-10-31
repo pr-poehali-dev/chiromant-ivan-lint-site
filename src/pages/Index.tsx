@@ -206,8 +206,8 @@ const Index = () => {
                   </div>
                   <div className="flex items-center justify-center gap-4 text-lg">
                     <Icon name="Mail" className="text-primary" size={28} />
-                    <a href="mailto:ivan@lint-palmistry.ru" className="hover:text-primary transition-colors">
-                      ivan@lint-palmistry.ru
+                    <a href="mailto:iwan891@bk.ru" className="hover:text-primary transition-colors">
+                      iwan891@bk.ru
                     </a>
                   </div>
                   <div className="flex items-center justify-center gap-4 text-lg">
