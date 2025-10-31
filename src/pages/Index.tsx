@@ -196,12 +196,7 @@ const Index = () => {
                       iwan891@bk.ru
                     </a>
                   </div>
-                  <div className="flex items-center justify-center gap-4 text-lg">
-                    <Icon name="MessageCircle" className="text-primary" size={28} />
-                    <a href="https://t.me/ivanlint" className="hover:text-primary transition-colors">
-                      @ivanlint
-                    </a>
-                  </div>
+
                   <div className="pt-6 border-t border-primary/20">
                     <p className="text-sm text-muted-foreground mb-4">
                       Приём ведётся по предварительной записи
