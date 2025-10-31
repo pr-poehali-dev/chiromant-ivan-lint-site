@@ -185,7 +185,7 @@ const Index = () => {
               <CardContent className="p-8">
                 <div className="space-y-6">
                   <div className="flex items-center justify-center gap-4 text-lg">
-                    <Icon name="Phone" className="text-primary" size={28} />
+                    <Icon name="MessageCircle" className="text-primary" size={28} />
                     <a href="https://wa.me/79193935188" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
                       +7 (919) 393-51-88
                     </a>
