@@ -201,10 +201,6 @@ const Index = () => {
                     <p className="text-sm text-muted-foreground mb-4">
                       Приём ведётся по предварительной записи
                     </p>
-                    <p className="text-sm text-muted-foreground">
-                      <Icon name="MapPin" className="inline mr-2" size={18} />
-                      Москва, ул. Мистическая, д. 13
-                    </p>
                   </div>
                 </div>
               </CardContent>
