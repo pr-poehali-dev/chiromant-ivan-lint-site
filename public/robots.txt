@@ -13,4 +13,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://chiromant-ivan-lint-site.poehali.app/sitemap.xml
+Sitemap: https://chiromant-ivan-lint-site--preview.poehali.dev/sitemap.xml
